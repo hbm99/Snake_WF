@@ -1,0 +1,28 @@
+C:\Users\Hansel Blanco\documents\visual studio 2017\Projects\SnakeApp\SnakeVisual\bin\Debug\SnakeVisual.exe.config
+C:\Users\Hansel Blanco\documents\visual studio 2017\Projects\SnakeApp\SnakeVisual\bin\Debug\SnakeVisual.exe
+C:\Users\Hansel Blanco\documents\visual studio 2017\Projects\SnakeApp\SnakeVisual\bin\Debug\SnakeVisual.pdb
+C:\Users\Hansel Blanco\documents\visual studio 2017\Projects\SnakeApp\SnakeVisual\obj\Debug\SnakeVisual.csprojResolveAssemblyReference.cache
+C:\Users\Hansel Blanco\documents\visual studio 2017\Projects\SnakeApp\SnakeVisual\obj\Debug\SnakeVisual.Properties.Resources.resources
+C:\Users\Hansel Blanco\documents\visual studio 2017\Projects\SnakeApp\SnakeVisual\obj\Debug\SnakeVisual.csproj.GenerateResource.Cache
+C:\Users\Hansel Blanco\documents\visual studio 2017\Projects\SnakeApp\SnakeVisual\obj\Debug\SnakeVisual.exe
+C:\Users\Hansel Blanco\documents\visual studio 2017\Projects\SnakeApp\SnakeVisual\obj\Debug\SnakeVisual.pdb
+C:\Users\Hansel Blanco\documents\visual studio 2017\Projects\SnakeApp\SnakeVisual\bin\Debug\SnakeApp.dll
+C:\Users\Hansel Blanco\documents\visual studio 2017\Projects\SnakeApp\SnakeVisual\bin\Debug\SnakeApp.pdb
+C:\Users\Hansel Blanco\documents\visual studio 2017\Projects\SnakeApp\SnakeVisual\obj\Debug\SnakeVisual.Form1.resources
+C:\Users\Hansel Blanco\documents\visual studio 2017\Projects\SnakeApp\SnakeVisual\obj\Debug\SnakeVisual.SpaceCreator.resources
+C:\Users\Hansel Blanco\documents\visual studio 2017\Projects\SnakeApp\SnakeVisual\obj\Debug\SnakeVisual.SetObject.resources
+D:\School\Mío\Programación\My Apps\Snake\SnakeApp\SnakeVisual\bin\Debug\SnakeVisual.exe.config
+D:\School\Mío\Programación\My Apps\Snake\SnakeApp\SnakeVisual\bin\Debug\SnakeVisual.exe
+D:\School\Mío\Programación\My Apps\Snake\SnakeApp\SnakeVisual\bin\Debug\SnakeVisual.pdb
+D:\School\Mío\Programación\My Apps\Snake\SnakeApp\SnakeVisual\bin\Debug\SnakeApp.dll
+D:\School\Mío\Programación\My Apps\Snake\SnakeApp\SnakeVisual\bin\Debug\SnakeApp.pdb
+D:\School\Mío\Programación\My Apps\Snake\SnakeApp\SnakeVisual\obj\Debug\SnakeVisual.csprojAssemblyReference.cache
+D:\School\Mío\Programación\My Apps\Snake\SnakeApp\SnakeVisual\obj\Debug\SnakeVisual.Form1.resources
+D:\School\Mío\Programación\My Apps\Snake\SnakeApp\SnakeVisual\obj\Debug\SnakeVisual.Properties.Resources.resources
+D:\School\Mío\Programación\My Apps\Snake\SnakeApp\SnakeVisual\obj\Debug\SnakeVisual.SetObject.resources
+D:\School\Mío\Programación\My Apps\Snake\SnakeApp\SnakeVisual\obj\Debug\SnakeVisual.SpaceCreator.resources
+D:\School\Mío\Programación\My Apps\Snake\SnakeApp\SnakeVisual\obj\Debug\SnakeVisual.csproj.GenerateResource.cache
+D:\School\Mío\Programación\My Apps\Snake\SnakeApp\SnakeVisual\obj\Debug\SnakeVisual.csproj.CoreCompileInputs.cache
+D:\School\Mío\Programación\My Apps\Snake\SnakeApp\SnakeVisual\obj\Debug\SnakeVisual.csproj.CopyComplete
+D:\School\Mío\Programación\My Apps\Snake\SnakeApp\SnakeVisual\obj\Debug\SnakeVisual.exe
+D:\School\Mío\Programación\My Apps\Snake\SnakeApp\SnakeVisual\obj\Debug\SnakeVisual.pdb

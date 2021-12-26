@@ -1,0 +1,11 @@
+C:\Users\Hansel Blanco\documents\visual studio 2017\Projects\SnakeApp\SnakeApp\bin\Debug\SnakeApp.dll
+C:\Users\Hansel Blanco\documents\visual studio 2017\Projects\SnakeApp\SnakeApp\bin\Debug\SnakeApp.pdb
+C:\Users\Hansel Blanco\documents\visual studio 2017\Projects\SnakeApp\SnakeApp\obj\Debug\SnakeApp.csprojResolveAssemblyReference.cache
+C:\Users\Hansel Blanco\documents\visual studio 2017\Projects\SnakeApp\SnakeApp\obj\Debug\SnakeApp.dll
+C:\Users\Hansel Blanco\documents\visual studio 2017\Projects\SnakeApp\SnakeApp\obj\Debug\SnakeApp.pdb
+D:\School\Mío\Programación\My Apps\Snake\SnakeApp\SnakeApp\bin\Debug\SnakeApp.dll
+D:\School\Mío\Programación\My Apps\Snake\SnakeApp\SnakeApp\bin\Debug\SnakeApp.pdb
+D:\School\Mío\Programación\My Apps\Snake\SnakeApp\SnakeApp\obj\Debug\SnakeApp.csprojAssemblyReference.cache
+D:\School\Mío\Programación\My Apps\Snake\SnakeApp\SnakeApp\obj\Debug\SnakeApp.csproj.CoreCompileInputs.cache
+D:\School\Mío\Programación\My Apps\Snake\SnakeApp\SnakeApp\obj\Debug\SnakeApp.dll
+D:\School\Mío\Programación\My Apps\Snake\SnakeApp\SnakeApp\obj\Debug\SnakeApp.pdb
